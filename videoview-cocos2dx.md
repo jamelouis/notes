@@ -54,3 +54,9 @@ SurfaceHolder.Callback mSHCallback = new SurfaceHolder.Callback()
 [1]:https://developer.android.com/reference/android/view/SurfaceView "Surface View - Android Docs"
 [2]:https://developer.android.com/reference/android/view/SurfaceHolder.Callback "SurfaceHolder.Callback - Android Docs"
 [3]:https://developer.android.com/guide/topics/media/mediaplayer "MediaPlayer overview - Android Docs"
+
+## [MediaPlayer State Diagram][4]
+
+![State Diagram](videoview-cocos2dx/mediaplyer_)
+
+[4]:https://developer.android.com/reference/android/media/MediaPlayer#state-diagram "MediaPlayer State Diagram - Android Docs"

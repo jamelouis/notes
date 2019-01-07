@@ -35,6 +35,7 @@
 ## Reference
 
 * [10 steps to become a professional iOS developer](ios-roadmap/10-steps-to-become-a-professional-ios-developer.md)
+* [macOS Setup Guide][11]
 
 [1]:https://www.reddit.com/r/iOSProgramming/comments/82w6qa/2018_roadmap_to_ios_development/
 [2]:https://medium.com/app-coder-io/10-steps-to-become-a-professional-ios-developer-11b82b6aea4c
@@ -46,3 +47,4 @@
 [8]:https://store.raywenderlich.com/products/ios-apprentice
 [9]:https://www.amazon.com/Stephen-G.-Kochan/e/B000APTUFG/ref=dp_byline_cont_book_1
 [10]:https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html
+[11]:https://sourabhbajaj.com/mac-setup/ "macOS Setup Guide"
